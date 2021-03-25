@@ -47,13 +47,15 @@ Here's a walkthrough of implemented user stories:
 [NOPE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[The most challenging part was the submission. I got very stuck in making a gif. It was one of those moments where you are testing on very basic mistakes. I felt like unskilled. How are you 
+taking so long on such a simple task a voice inside me said. I looked away from my screen, gave my self a moment. When I came back I saw a tutorial video that I missed. I watched it and then I was
+back on track. There was a voice inside me saying You are going to finish this application. I know how much I need it.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[Is web development really such tecnical work? or is it exploring the cabapility of how creative ones mind is?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I would definitly try to add the extra features. beside that, i would make it more personal by adding a theme to it. Some people really like a particlar show or cards.]
 
 
 
